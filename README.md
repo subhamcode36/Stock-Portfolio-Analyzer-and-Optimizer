@@ -33,17 +33,21 @@ python
 from portfolio_analyzer import analyze
 my_portfolio = ["AAPL", "MSFT", "AMZN", "TSLA"]
 analyze(my_portfolio, years=5)
+
 📊 Sample Output Preview
 Portfolio Analysis Dashboard
 (Actual screenshot of the beautiful dashboards you'll get)
 
 🏁 Getting Started
+
 Installation (30 seconds)
 bash
 pip install portfolio-analyzer
+
 Basic Usage
 bash
 portfolio-analyze AAPL MSFT GOOG --years 3
+
 🎓 Perfect For
 👨‍💻 Developers who invest
 
@@ -55,9 +59,6 @@ portfolio-analyze AAPL MSFT GOOG --years 3
 
 ❤️ Why We Built This
 "Because everyone deserves professional-grade investment tools - not just Wall Street."
-
-📜 License
-MIT - Use it, share it, improve it!
 
 Ready to optimize your portfolio?
 Get Started Now · Report Bug · Request Feature
